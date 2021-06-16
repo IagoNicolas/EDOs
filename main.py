@@ -1,3 +1,10 @@
+#  ___                    _   _
+# |_ _|__ _  __ _  ___   | \ | |      Iago Nicolas
+#  | |/ _` |/ _` |/ _ \  |  \| |      https://github.com/IagoNicolas
+#  | | (_| | (_| | (_) | | |\  |_
+# |___\__,_|\__, |\___/  |_| \_(_)    Works with python 3.9.5 64-bit
+#           |___/                     @ Thinkpad T480 on 5.12.10-arch1-1, Arch Linux x86_64.
+
 from assets import questao_1, questao_2, questao_3, questao_4, questao_5
 import matplotlib.pyplot as plt
 import numpy as np
